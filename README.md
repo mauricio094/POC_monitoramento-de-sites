@@ -1,4 +1,4 @@
-# POC_monitoramento-de-sites
+# (POC) monitoramento de sites
 POC de um software de monitoramento de sites para estudos na linguagem GO
 
 ## Objetivo
