@@ -1,8 +1,0 @@
-https://random-status-code.herokuapp.com/- online: true
-https://www.alura.com.br- online: true
-01/123/3127 12:123:31 - https://random-status-code.herokuapp.com/- online: false
-01/123/3127 12:124:31 - https://www.alura.com.br- online: true
-01/123/3127 12:125:31 - https://www.caelum.com.br- online: true
-12/03/2017 01:59:12 - https://random-status-code.herokuapp.com/- online: false
-12/03/2017 01:59:13 - https://www.alura.com.br- online: true
-12/03/2017 01:59:15 - https://www.caelum.com.br- online: true
