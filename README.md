@@ -9,4 +9,5 @@ Realizar monitoramento de sites
 
 ## Como Utilizar
 * Realizar a instalação do Golang https://golang.org/
+* colocar os site que serão monitorados no arquivo sites.txt
 * através do terminal rodar o comando go run Monitoramento.go
