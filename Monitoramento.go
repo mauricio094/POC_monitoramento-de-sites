@@ -114,10 +114,11 @@ func iniciarMonitoramento() {
 			ao declarar um array devemos passar entre colchetes o numero de arrays e logo em seguida o tipo
 			e se atentar pois não deve haver espaço entre ambos
 
-		var sites [4]string
-		sites[0] = "https://random-status-code.herokuapp.com/"
-		sites[1] = "https://www.alura.com.br"
-		sites[2] = "https://www.caelum.com.br"
+		var sites [3]string
+		sites[0] = "https://siteInexistente.com/
+		sites[1] = https://golang.org/
+		sites[2] = https://www.google.com.br/
+		
 		OBS: é possivel retornar um array através de um função
 	*/
 
